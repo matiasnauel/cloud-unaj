@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/cloud-unaj/static/js/main.23f88725.chunk.js",
+    "main.js.map": "/cloud-unaj/static/js/main.23f88725.chunk.js.map",
+    "runtime-main.js": "/cloud-unaj/static/js/runtime-main.6063d848.js",
+    "runtime-main.js.map": "/cloud-unaj/static/js/runtime-main.6063d848.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/cloud-unaj/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.fc9cadd9.chunk.js": "/cloud-unaj/static/js/2.fc9cadd9.chunk.js",
+    "static/js/2.fc9cadd9.chunk.js.map": "/cloud-unaj/static/js/2.fc9cadd9.chunk.js.map",
+    "index.html": "/cloud-unaj/index.html",
+    "precache-manifest.c8e45878d863bbe19ab3a7bb0347a7f3.js": "/cloud-unaj/precache-manifest.c8e45878d863bbe19ab3a7bb0347a7f3.js",
+    "service-worker.js": "/cloud-unaj/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/cloud-unaj/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/js/2.fc9cadd9.chunk.js.LICENSE.txt": "/cloud-unaj/static/js/2.fc9cadd9.chunk.js.LICENSE.txt",
+    "static/media/UNAJ.jpg": "/cloud-unaj/static/media/UNAJ.0a875b3b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6063d848.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.fc9cadd9.chunk.js",
+    "static/js/main.23f88725.chunk.js"
+  ]
+}
